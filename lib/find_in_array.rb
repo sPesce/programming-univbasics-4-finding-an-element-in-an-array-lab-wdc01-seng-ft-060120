@@ -6,8 +6,5 @@ def find_element_index(array, value_to_find)
     if array[index] == value_to_find
       return index
     end
-
- end 
-  
-  return -1 #none found 
+   end 
 end
